@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "USB4105-GF-A")(type "Legacy")(uri "D:/KiCad/DroneBoard/hardware/libraries/USB4105-GF-A/USB4105-GF-A.lib")(options "")(descr ""))
+  (lib (name "SMBJ5.0A-TR")(type "Legacy")(uri "D:/KiCad/DroneBoard/hardware/libraries/SMBJ5.0A-TR/SMBJ5.0A-TR.lib")(options "")(descr ""))
+)

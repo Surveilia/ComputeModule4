@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "USB4105-GF-A")(type "Legacy")(uri "D:/KiCad/DroneBoard/hardware/libraries/USB4105-GF-A/USB4105-GF-A.lib")(options "")(descr "")(disabled))
+  (lib (name "SMBJ5.0A-TR")(type "Legacy")(uri "D:/KiCad/DroneBoard/hardware/libraries/SMBJ5.0A-TR/SMBJ5.0A-TR.lib")(options "")(descr "")(disabled))
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/kaden/OneDrive/Documents/KiCad/rpi-cm4-drone/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "RT9742GGJ5")(type "Legacy")(uri "C:/Users/kaden/Downloads/LIB_RT9742GGJ5/RT9742GGJ5/KiCad/RT9742GGJ5.lib")(options "")(descr ""))
+)
